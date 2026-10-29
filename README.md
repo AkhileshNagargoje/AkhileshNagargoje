@@ -1,7 +1,7 @@
 ## Akhilesh Nagargoje
 
-Second-year AI & Data Science undergrad in Nashik. I build detection systems, AI tooling,
-and small tools that fix one specific thing.
+Second-year AI & Data Science undergrad in Nashik. I build what I want, then find out if it works —
+detection systems, AI tooling, and small tools that fix one specific thing.
 
 I care about being able to defend what I build — so most of this comes with tests,
 measured results, or a written account of where it fails.
@@ -21,13 +21,24 @@ measured results, or a written account of where it fails.
 
 ---
 
+### Building now (private for the moment)
+
+| | What it is | Built with |
+|---|---|---|
+| **MPLADS anomaly detection** · SIH 2026 | Compliance checking of MP Local Area Development works against the 2023 guidelines, on the live national eSAKSHI record — 79,000+ works. Every flag cites a guideline clause. | Python · PostgreSQL · scikit-learn · React |
+| **lifr** | A browser life simulator with a pure, deterministic engine: one seed replays one life exactly. Engine, content and UI are separate layers; integration tests run whole simulated lives. | TypeScript · React · Zod · Vitest |
+| **TiffinFinder** | A tiffin-subscription marketplace for Nashik with customer, cook and admin sides. | React · Vite · Supabase |
+| **Notes platform** | Study notes organised by subject, unit and topic, with accounts, following, copying other people's notes and AI study tools. | Cloudflare Workers · D1 |
+
+---
+
 ### Currently
 
-Going deep on Python and applied statistics — anomaly detection over real public data,
-with an evaluation harness that measures detection rate and false-alarm cost instead of
-just asserting that it works.
+Learning: **CS50P** · **Designing Data-Intensive Applications** · Google Cloud Arcade
 
-**Python · TypeScript · React · Node.js · Kotlin · SQL · PostgreSQL · LLM integration**
+Recognition: **Kumbhathon S.P.R.I.N.T. 2026** · **4th of 40 teams** at an inter-year hackathon, as sole developer
+
+**Python · TypeScript · React · Node.js · Kotlin · SQL · PostgreSQL · Cloudflare · LLM integration**
 
 ---
 
