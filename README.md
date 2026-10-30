@@ -1,7 +1,3 @@
-I don't wait to be qualified.
-
-I build it first.
-
-If it survives me, it ships.
+I don't have competitors. I have future users.
 
 [akhileshnagargoje.in](https://akhileshnagargoje.in)
