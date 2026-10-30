@@ -1,63 +1,29 @@
-# I'm not waiting to be qualified.
+# I build things that nobody asked for, at hours nobody should be awake.
 
-I build what I want, then find out if it works.
+YouTube's search annoyed me, so I rewrote it.
+I wanted BMW's hand gestures on a laptop, so I built them in one evening with the camera I already had.
+I wanted old YouTube back, so I made an Android app that forces it to look like 2016.
+My portfolio is a 3D bedroom you walk around in, because a normal page felt wrong.
 
-It started at 11, with a chapter on space at the back of a science textbook, read before the school year began. At 12 I was writing my own theories about why time slows down, then crossing them out when I found the flaw.
+**How I work:**
 
-I still work that way. Build the thing, try to destroy it, keep what survives.
+- I run several AI models at once, each in its own lane, and make them check each other's work.
+- I went from a problem statement to a working pipeline on 79,484 real government records in about 36 hours.
+- I took a game from 290 events to 2,300 in a week, and I'm still comparing it to the one I'm trying to beat.
+- I'll reject a design six times and then delete it and start from scratch.
+- If it can't be measured, I don't believe it. If it survives me trying to break it, it stays.
+- Everything I ship runs on free tiers. If it can't, I find another way.
 
-**[Walk into my room →](https://akhileshnagargoje.in)** My portfolio is a 3D bedroom at night. There's a telescope by the window and that notebook is on the shelf.
+**Built:**
+[kinesics](https://github.com/AkhileshNagargoje/kinesics) ·
+[Search Filters for YouTube](https://github.com/AkhileshNagargoje/youtube-search-filters) ·
+[OldTube](https://github.com/AkhileshNagargoje/oldtube) ·
+[GitHub World](https://github.com/AkhileshNagargoje/github-world) ·
+[Synapse Study](https://github.com/AkhileshNagargoje/Synapse-Study) ·
+[MPLADS Watch](https://mplads.akhileshnagargoje.in)
 
----
+**Currently too many tabs open:** a life simulator, a tiffin marketplace, a notes platform, a detection system for government funds.
 
-### Things I built because they annoyed me
+4th of 40 teams, alone, against seniors · Kumbhathon S.P.R.I.N.T. 2026
 
-**[kinesics](https://github.com/AkhileshNagargoje/kinesics)** · BMW needs a time-of-flight sensor for hand gestures. I used the laptop camera I already had. Palm and fist to scroll, rotate two fingers like a dial for volume.
-
-**[Search Filters for YouTube](https://github.com/AkhileshNagargoje/youtube-search-filters)** · The seven search filters YouTube never shipped. I wanted to watch videos from before the algorithm took over, so I rewrote the query myself. 92 test assertions.
-
-**[OldTube](https://github.com/AkhileshNagargoje/oldtube)** · YouTube, wearing 2016, on my own phone. Pure nostalgia, shipped as an Android app.
-
-**[Synapse Study](https://github.com/AkhileshNagargoje/Synapse-Study)** · Photograph your handwritten notes and get a study pack, plus an AI tutor that only knows what you wrote.
-
-**[GitHub World](https://github.com/AkhileshNagargoje/github-world)** · Type any username and walk through that profile as a low-poly city. Bigger projects, bigger buildings.
-
-**[Birthday Email System](https://github.com/AkhileshNagargoje/birthday-email-system)** · Every student at my college gets a wish at midnight. No machine has to be on.
-
----
-
-### Private for now
-
-**MPLADS anomaly detection** · Smart India Hackathon 2026. 79,484 sanctioned works from the live national record, joined across recommendation, sanction, payment and completion with zero orphans. A work is flagged only if an objective rule fired, and every flag cites the guideline clause. The word *fraud* appears in no output the system can produce. [See it running →](https://mplads.akhileshnagargoje.in)
-
-**lifr** · A life simulator with a deterministic engine. One seed replays one life exactly. I'm building it to beat the game that inspired it, and I direct a team of AI models to do it.
-
-**TiffinFinder** · A tiffin marketplace for Nashik, with customer, cook and admin sides.
-
----
-
-### Aiming at
-
-| When | What |
-|---|---|
-| 2027 | Google Summer of Code — Zulip or Astropy |
-| 2027 | Google STEP internship |
-| 2027 | Build something that runs during the Nashik Kumbh |
-| Year 4 | **Project Kepler** — a discovery engine that reads biology and astrophysics together and finds what nobody connected, then tries to destroy its own ideas |
-| Later | Space. That was always the point. |
-
----
-
-### What stuck
-
-**Sekiro** taught me persistence better than any advice did. **Dhoni** finished the job and never looked like he was panicking. **Messi** stayed at the top for twenty years, which is harder than the goals.
-
-Newton, Einstein, Tesla, Torvalds, Musk — and one fictional one I'm not going to pretend I've outgrown.
-
----
-
-**4th of 40 teams**, sole developer, against seniors · **Kumbhathon S.P.R.I.N.T. 2026**
-
-Python · TypeScript · React · Kotlin · SQL · Cloudflare · MediaPipe · Three.js
-
-[akhileshnagargoje.in](https://akhileshnagargoje.in) · [LinkedIn](https://www.linkedin.com/in/akhileshnagargoje)
+[Walk into my room →](https://akhileshnagargoje.in)
