@@ -1,45 +1,63 @@
-## Akhilesh Nagargoje
+# I'm not waiting to be qualified.
 
-Second-year AI & Data Science undergrad in Nashik. I build what I want, then find out if it works —
-detection systems, AI tooling, and small tools that fix one specific thing.
+I build what I want, then find out if it works.
 
-I care about being able to defend what I build — so most of this comes with tests,
-measured results, or a written account of where it fails.
+It started at 11, with a chapter on space at the back of a science textbook, read before the school year began. At 12 I was writing my own theories about why time slows down, then crossing them out when I found the flaw.
 
----
+I still work that way. Build the thing, try to destroy it, keep what survives.
 
-### Featured
-
-| | What it is | Built with |
-|---|---|---|
-| [**kinesics**](https://github.com/AkhileshNagargoje/kinesics) | Webcam hand-gesture control for Windows. Palm and fist to scroll, rotate two fingers like a dial for volume. Inspired by BMW's in-car gesture control, which needs a time-of-flight sensor — this uses the laptop camera you already have. | Python · MediaPipe |
-| [**Search Filters for YouTube**](https://github.com/AkhileshNagargoje/youtube-search-filters) | The seven search filters YouTube never shipped. Rewrites undocumented `before:`/`after:` params and intercepts result data before it renders. 92 test assertions, CI on every push. | Vanilla JS · Manifest V3 |
-| [**Birthday Email System**](https://github.com/AkhileshNagargoje/birthday-email-system) | Emails every student a personalised birthday greeting at midnight, automatically. Runs entirely on GitHub Actions — no machine has to be switched on. Deployed at my college. | Python · GitHub Actions · Cloudflare |
-| [**Synapse Study**](https://github.com/AkhileshNagargoje/Synapse-Study) | Photographed handwritten notes → structured study packs, plus an AI tutor grounded in your own notes rather than general knowledge. | React 19 · TypeScript · Node · Supabase · Gemini |
-| [**GitHub World**](https://github.com/AkhileshNagargoje/github-world) | Any GitHub profile as an explorable low-poly 3D city. Repos become buildings, sized by a composite significance score. | React · TypeScript · react-three-fiber |
-| [**OldTube**](https://github.com/AkhileshNagargoje/oldtube) | YouTube, wearing 2016. A native WebView with a classic-era stylesheet injected over it. | Kotlin · Android |
+**[Walk into my room →](https://akhileshnagargoje.in)** My portfolio is a 3D bedroom at night. There's a telescope by the window and that notebook is on the shelf.
 
 ---
 
-### Building now (private for the moment)
+### Things I built because they annoyed me
 
-| | What it is | Built with |
-|---|---|---|
-| **MPLADS anomaly detection** · SIH 2026 | Compliance checking of MP Local Area Development works against the 2023 guidelines, on the live national eSAKSHI record — 79,000+ works. Every flag cites a guideline clause. | Python · PostgreSQL · scikit-learn · React |
-| **lifr** | A browser life simulator with a pure, deterministic engine: one seed replays one life exactly. Engine, content and UI are separate layers; integration tests run whole simulated lives. | TypeScript · React · Zod · Vitest |
-| **TiffinFinder** | A tiffin-subscription marketplace for Nashik with customer, cook and admin sides. | React · Vite · Supabase |
-| **Notes platform** | Study notes organised by subject, unit and topic, with accounts, following, copying other people's notes and AI study tools. | Cloudflare Workers · D1 |
+**[kinesics](https://github.com/AkhileshNagargoje/kinesics)** · BMW needs a time-of-flight sensor for hand gestures. I used the laptop camera I already had. Palm and fist to scroll, rotate two fingers like a dial for volume.
 
----
+**[Search Filters for YouTube](https://github.com/AkhileshNagargoje/youtube-search-filters)** · The seven search filters YouTube never shipped. I wanted to watch videos from before the algorithm took over, so I rewrote the query myself. 92 test assertions.
 
-### Currently
+**[OldTube](https://github.com/AkhileshNagargoje/oldtube)** · YouTube, wearing 2016, on my own phone. Pure nostalgia, shipped as an Android app.
 
-Learning: **CS50P** · **Designing Data-Intensive Applications** · Google Cloud Arcade
+**[Synapse Study](https://github.com/AkhileshNagargoje/Synapse-Study)** · Photograph your handwritten notes and get a study pack, plus an AI tutor that only knows what you wrote.
 
-Recognition: **Kumbhathon S.P.R.I.N.T. 2026** · **4th of 40 teams** at an inter-year hackathon, as sole developer
+**[GitHub World](https://github.com/AkhileshNagargoje/github-world)** · Type any username and walk through that profile as a low-poly city. Bigger projects, bigger buildings.
 
-**Python · TypeScript · React · Node.js · Kotlin · SQL · PostgreSQL · Cloudflare · LLM integration**
+**[Birthday Email System](https://github.com/AkhileshNagargoje/birthday-email-system)** · Every student at my college gets a wish at midnight. No machine has to be on.
 
 ---
 
-[linkedin](https://www.linkedin.com/in/akhileshnagargoje) · [akhileshnagargoje.in](https://akhileshnagargoje.in)
+### Private for now
+
+**MPLADS anomaly detection** · Smart India Hackathon 2026. 79,484 sanctioned works from the live national record, joined across recommendation, sanction, payment and completion with zero orphans. A work is flagged only if an objective rule fired, and every flag cites the guideline clause. The word *fraud* appears in no output the system can produce. [See it running →](https://mplads.akhileshnagargoje.in)
+
+**lifr** · A life simulator with a deterministic engine. One seed replays one life exactly. I'm building it to beat the game that inspired it, and I direct a team of AI models to do it.
+
+**TiffinFinder** · A tiffin marketplace for Nashik, with customer, cook and admin sides.
+
+---
+
+### Aiming at
+
+| When | What |
+|---|---|
+| 2027 | Google Summer of Code — Zulip or Astropy |
+| 2027 | Google STEP internship |
+| 2027 | Build something that runs during the Nashik Kumbh |
+| Year 4 | **Project Kepler** — a discovery engine that reads biology and astrophysics together and finds what nobody connected, then tries to destroy its own ideas |
+| Later | Space. That was always the point. |
+
+---
+
+### What stuck
+
+**Sekiro** taught me persistence better than any advice did. **Dhoni** finished the job and never looked like he was panicking. **Messi** stayed at the top for twenty years, which is harder than the goals.
+
+Newton, Einstein, Tesla, Torvalds, Musk — and one fictional one I'm not going to pretend I've outgrown.
+
+---
+
+**4th of 40 teams**, sole developer, against seniors · **Kumbhathon S.P.R.I.N.T. 2026**
+
+Python · TypeScript · React · Kotlin · SQL · Cloudflare · MediaPipe · Three.js
+
+[akhileshnagargoje.in](https://akhileshnagargoje.in) · [LinkedIn](https://www.linkedin.com/in/akhileshnagargoje)
