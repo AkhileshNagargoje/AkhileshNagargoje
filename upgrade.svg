@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="110" viewBox="0 0 640 110" role="img" aria-label="I am the upgrade. Next version ships when I wake up.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:16px}.a{fill:#22d3ee;font-weight:700}.b{fill:#8b949e}</style><defs>
+<clipPath id="c0"><rect x="20" y="22" height="28" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0764;0.0814;0.0864;0.0914;0.0964;0.1014;0.1064;0.1114;0.1164;0.1214;0.1264;0.1314;0.1364;0.1414;0.1464;0.1514;0.1564;0.9643;1.0000" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;0.0;0.0"/></rect></clipPath>
+<clipPath id="c1"><rect x="20" y="56" height="28" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2318;0.2350;0.2382;0.2414;0.2446;0.2479;0.2511;0.2543;0.2575;0.2607;0.2639;0.2671;0.2704;0.2736;0.2768;0.2800;0.2832;0.2864;0.2896;0.2929;0.2961;0.2993;0.3025;0.3057;0.3089;0.3121;0.3154;0.3186;0.3218;0.3250;0.3282;0.3314;0.3346;0.3379;0.9643;1.0000" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;0.0;0.0"/></rect></clipPath>
+</defs>
+<text x="20" y="42" class="a" textLength="163.2" clip-path="url(#c0)">I am the upgrade.</text>
+<text x="20" y="76" class="b" textLength="326.4" clip-path="url(#c1)">Next version ships when I wake up.</text>
+<rect x="350.4" y="62" width="9" height="18" fill="#22d3ee"><animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0"/></rect>
+</svg>
